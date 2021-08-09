@@ -6,6 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * @author HP
  */
+
+/*
+* springboot启动
+* */
 @SpringBootApplication
 public class Chapter012Application {
 
